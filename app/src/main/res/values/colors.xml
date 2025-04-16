@@ -1,0 +1,10 @@
+<resources>
+    <!-- Define your primary, primary dark, and accent colors -->
+    <color name="colorPrimary">#6200EE</color> <!-- You can customize this color -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- You can customize this color -->
+    <color name="colorAccent">#03DAC5</color> <!-- You can customize this color -->
+    <color name="purple_200">#BB86FC</color> <!-- Customize as per your app's design -->
+    <color name="purple_700">#6200EE</color> <!-- Customize as per your app's design -->
+    <color name="black">#000000</color> <!-- Customize as per your app's design -->
+    <color name="teal_200">#03DAC5</color> <!-- Customize as per your app's design -->
+</resources>
